@@ -1,2 +1,2 @@
-# c-language-mini-project
-It has mini projects of c language.
+#Data-structures-mini-project
+It includes mini project of circular queue in Data Structure using c language.
